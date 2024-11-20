@@ -32,7 +32,7 @@ body {
 }
 
 main {
-    padding: 10px; /* Adjust to add space around your content */
+    padding: 5px; /* Adjust to add space around your content */
     margin: 0 auto; /* Centers the content */
     max-width: 1200px; /* Ensures your content doesn't span too wide */
     background-color: #d8e9db; /* Optional: Adds a background for readability */
@@ -41,7 +41,7 @@ main {
 /* Ensure the footer stays at the bottom */
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     background-color: #333;
     color: white;
 }
